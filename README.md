@@ -31,7 +31,7 @@
 
 <p align="center">
 
-- **Tecnolodias**:<br>
+- **Tecnologias**:<br>
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,cs)](https://skillicons.dev)
 
 <br>
