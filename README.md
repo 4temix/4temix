@@ -38,7 +38,7 @@
 
 
 - **Frameworks**:<br>
-  [![My Skills](https://skillicons.dev/icons?i=dotnet,bootstrap)]()
+  ![My Skills](https://skillicons.dev/icons?i=dotnet,bootstrap)
 
 <br>   
 
@@ -49,7 +49,7 @@
 <br>
 
 - **Extras**:<br>
-[![My Skills](https://skillicons.dev/icons?i=git,github,md,postman)]
+![My Skills](https://skillicons.dev/icons?i=git,github,md,postman)
 
 
 </p>
