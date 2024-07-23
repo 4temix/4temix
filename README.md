@@ -52,7 +52,7 @@
     
 <br>
 
-- **Extras**:
+- **Extras**:<br>
 [![My Skills](https://skillicons.dev/icons?i=git,github,md,postman)](https://skillicons.dev)
 
 
