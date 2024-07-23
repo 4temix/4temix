@@ -31,20 +31,16 @@
 
 <p align="center">
 
-- **Languages**:<br>
-  [![My Skills](https://skillicons.dev/icons?i=cs)](https://skillicons.dev)
+- **Desarrollo Front-End**:<br>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs)](https://skillicons.dev)
 
 <br>
+
 
 - **Frameworks**:<br>
   [![My Skills](https://skillicons.dev/icons?i=dotnet,bootstrap)](https://skillicons.dev)
 
 <br>   
-    
-- **Desarrollo Front-End**:<br>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
-
-<br>
 
 - **Cloud Hosting**:
 
