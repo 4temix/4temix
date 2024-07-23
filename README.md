@@ -36,7 +36,7 @@
 
 <br>   
     
-- **Front-End Development**:<br>
+- **Desarrollo Front-End**:<br>
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
 <br>
