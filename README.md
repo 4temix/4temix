@@ -32,7 +32,7 @@
 <p align="center">
 
 - **Languages**:<br>
-  [![My Skills](https://skillicons.dev/icons?i=Cs)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=cs)](https://skillicons.dev)
 
 <br>   
     
