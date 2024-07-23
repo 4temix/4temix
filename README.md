@@ -32,13 +32,13 @@
 <p align="center">
 
 - **Tecnologias**:<br>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs)](https://4temix.github.io/carrusel/)
 
 <br>
 
 
 - **Frameworks**:<br>
-  [![My Skills](https://skillicons.dev/icons?i=dotnet,bootstrap)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=dotnet,bootstrap)]()
 
 <br>   
 
@@ -49,7 +49,7 @@
 <br>
 
 - **Extras**:<br>
-[![My Skills](https://skillicons.dev/icons?i=git,github,md,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,md,postman)]
 
 
 </p>
