@@ -44,7 +44,7 @@
 
 - **Base de datos**:
 
-    <img src="https://365cloudstore.com/wp-content/uploads/2023/02/sql-server-500x500-01.png" width ="25">
+    <img src="https://365cloudstore.com/wp-content/uploads/2023/02/sql-server-500x500-01.png" width ="100">
     
 <br>
 
