@@ -96,7 +96,7 @@ Mi compromiso con el crecimiento profesional es constante; incremento mi aprendi
 <br>
 
 <li>
-<a href="mailto:0xabdulkhalid@gmail.com" target="_blank">
+<a href="yasel2k21@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail: yasel2l21@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
@@ -112,7 +112,7 @@ Mi compromiso con el crecimiento profesional es constante; incremento mi aprendi
 
 <div align='center'>
 
-## <b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</b>
+## <b> Se tu mismo</b>
 
 </div>
 <br>
@@ -121,9 +121,3 @@ Mi compromiso con el crecimiento profesional es constante; incremento mi aprendi
 <br>
 
 ---
-
-<br>
-
-Credit: [Abdul Khalid](https://github.com/0xabdulkhalid)
-
-Last Edited on: 09/11/2022
