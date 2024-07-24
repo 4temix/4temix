@@ -10,17 +10,15 @@
 
 
 	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mi**
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 <br>
 
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+Soy un apasionado del desarrollo web con un año y medio de experiencia en el aprendizaje tanto del front-end como del back-end. En el front-end, he trabajado con HTML, CSS y JavaScript, creando interfaces de usuario atractivas y funcionales. En el back-end, tengo experiencia con C# y .NET, desarrollando soluciones robustas y escalables. También he construido páginas web completas utilizando ASP.NET y he trabajado con bases de datos SQL Server.
+
+Mi compromiso con el crecimiento profesional es constante; incremento mi aprendizaje día a día a través de cursos en línea y documentación técnica. Poseo una tecnicatura en diseño y desarrollo de software, lo que me ha proporcionado una base sólida y las habilidades necesarias para enfrentar desafíos en el desarrollo web. Estoy siempre en busca de nuevas oportunidades para mejorar y expandir mis conocimientos en este campo en constante evolución.
 
 <br><br>
 
