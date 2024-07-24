@@ -42,9 +42,9 @@
 
 <br>   
 
-- **Cloud Hosting**:
+- **Base de datos**:
 
-    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
+    <img src="[https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2F365cloudstore.com%2Fproduct%2Fsql-server-2022-standard-edition-perpetual-software-license%2F&psig=AOvVaw1G8_v5CfV8k-kVmmcDye-c&ust=1721908911994000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIDxi9zQv4cDFQAAAAAdAAAAABAE)" width ="25">
     
 <br>
 
