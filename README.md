@@ -59,11 +59,13 @@ Mi compromiso con el crecimiento profesional es constante; incremento mi aprendi
 <br>
 
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Proyectos </b>
 <br>
 
 <div align="center">
-	<a href="https://4temix.github.io/purificadora_web/" target="_blank">purificadora </a>
+	<a href="https://4temix.github.io/purificadora_web/" target="_blank"><img src="vista-aerea-playa-arena-olas-hermoso-mar-tropical-manana-imagen-temporada-verano-vista-aerea-drone-tiro-vista-angulo-alto-olas-mar-arriba-abajo_34362-3415.jpg" width="40%">
+	</a>
+	<p>Purificadora HY</p>
 </div>
 
 <br>
