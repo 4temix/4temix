@@ -53,7 +53,6 @@ Mi compromiso con el crecimiento profesional es constante; incremento mi aprendi
 </p>
 
 <br>
-<br>
 
 -----
 
@@ -64,7 +63,7 @@ Mi compromiso con el crecimiento profesional es constante; incremento mi aprendi
 <br>
 
 <div align="center">
-	
+	<a href="https://4temix.github.io/purificadora_web/" target="_blank">purificadora </a>
 </div>
 
 <br>
