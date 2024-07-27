@@ -62,10 +62,36 @@ Mi compromiso con el crecimiento profesional es constante; incremento mi aprendi
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Proyectos </b>
 <br>
 
-<div align="center">
-	<a href="https://4temix.github.io/purificadora_web/" target="_blank"><img src="vista-aerea-playa-arena-olas-hermoso-mar-tropical-manana-imagen-temporada-verano-vista-aerea-drone-tiro-vista-angulo-alto-olas-mar-arriba-abajo_34362-3415.jpg" width="40%">
-	</a>
-	<p>Purificadora HY</p>
+<div>
+	<div>
+		<a href="https://4temix.github.io/purificadora_web/">
+			<img src="Screenshot 2024-07-26 221417.png" alt="purificadora_web" style="width:40%;">
+		</a>
+		<h3>Purificadora HY</h3>
+		<h4>Tecnologias usadas</h4>
+  	
+  ![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap)
+	</div>
+	<br>
+	<div>
+		<a href="https://4temix.github.io/carrusel/">
+			<img src="Screenshot 2024-07-26 224413.png" alt="carrusel" style="width:40%;">
+		</a>
+		<h3>Carrusel</h3>
+  		<h4>Tecnologias usadas</h4>
+  	
+  ![My Skills](https://skillicons.dev/icons?i=html,css,js,)
+	</div>
+	<br>
+	<div>
+		<a href="https://qrgenerate.somee.com/">
+			<img src="Screenshot 2024-07-26 224733.png" alt="QrGenerate" style="width:40%;">
+		</a>
+		<h3>QRGenerate</h3>
+  		<h4>Tecnologias usadas</h4>
+  	
+  ![My Skills](https://skillicons.dev/icons?i=dotnet,bootstrap)
+	</div>
 </div>
 
 <br>
