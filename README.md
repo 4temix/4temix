@@ -95,9 +95,9 @@ Mi compromiso con el crecimiento profesional es constante; incremento mi aprendi
  	<br>
 	<div>
 		<a href="https://4temix.github.io/panaderia/">
-			<img src="Screenshot 2024-07-26 224733.png" alt="QrGenerate" style="width:40%;">
+			<img src="Screenshot 2024-08-12 110343.png" alt="panaderia" style="width:40%;">
 		</a>
-		<h3>QRGenerate</h3>
+		<h3>Panaderia</h3>
   		<h4>Tecnologias usadas</h4>
        <p>Frontend</p>
 	![My Skills](https://skillicons.dev/icons?i=html,css,js,)
