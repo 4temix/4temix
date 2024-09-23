@@ -75,17 +75,6 @@ Mi compromiso con el crecimiento profesional es constante; incremento mi aprendi
   	<hr>
 	<br>
 	<div>
-		<a href="https://4temix.github.io/carrusel/">
-			<img src="Screenshot 2024-07-26 224413.png" alt="carrusel" style="width:40%;">
-		</a>
-		<h3>Carrusel</h3>
-  		<h4>Tecnologias usadas</h4>
-  	
-  ![My Skills](https://skillicons.dev/icons?i=html,css,js,)
-	</div>
-  	<hr>
-	<br>
-	<div>
 		<a href="https://qrgenerate.somee.com/">
 			<img src="Screenshot 2024-07-26 224733.png" alt="QrGenerate" style="width:40%;">
 		</a>
