@@ -70,7 +70,9 @@ Mi compromiso con el crecimiento profesional es constante; incremento mi aprendi
 		<h3>Fundacion Unidos Creciendo en Amor Familiar</h3>
 		<h4>Tecnologias usadas</h4>
   	
-  ![My Skills](https://skillicons.dev/icons?i=html,css,js,react)
+  ![My Skills](https://skillicons.dev/icons?i=html,css,js,react,dotnet)
+  <br>
+  <img src="https://365cloudstore.com/wp-content/uploads/2023/02/sql-server-500x500-01.png" width ="100">
 	</div>
   	<hr>
 	<br>
