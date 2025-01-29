@@ -35,8 +35,8 @@ Mi compromiso con el crecimiento profesional es constante; incremento mi aprendi
 <br>
 
 
-- **Frameworks**:<br>
-  ![My Skills](https://skillicons.dev/icons?i=dotnet,bootstrap)
+- **Frameworks/librerias**:<br>
+  ![My Skills](https://skillicons.dev/icons?i=dotnet,bootstrap,react,next.js)
 
 <br>   
 
@@ -61,6 +61,19 @@ Mi compromiso con el crecimiento profesional es constante; incremento mi aprendi
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Proyectos </b>
 <br>
+
+<div>
+	<div>
+		<a href="https://funcaf.org/">
+			<img src="Captura de pantalla 2025-01-29 105404.png" alt="purificadora_web" style="width:40%;">
+		</a>
+		<h3>Fundacion Unidos Creciendo en Amor Familiar</h3>
+		<h4>Tecnologias usadas</h4>
+  	
+  ![My Skills](https://skillicons.dev/icons?i=html,css,js,react)
+	</div>
+  	<hr>
+	<br>
 
 <div>
 	<div>
