@@ -97,23 +97,6 @@ Mi compromiso con el crecimiento profesional es constante; incremento mi aprendi
   		<h4>Tecnologias usadas</h4>
   	
   ![My Skills](https://skillicons.dev/icons?i=dotnet,bootstrap)
-	</div>
- 	<hr>
- 	<br>
-	<div>
-		<a href="https://4temix.github.io/panaderia/">
-			<img src="Screenshot 2024-08-12 110343.png" alt="panaderia" style="width:40%;">
-		</a>
-		<h3>Panaderia</h3>
-  		<h4>Tecnologias usadas</h4>
-       <p>Frontend</p>
-	![My Skills](https://skillicons.dev/icons?i=html,css,js,)
- 	<br>
-  	<p>Backend</p>
-  	![My Skills](https://skillicons.dev/icons?i=dotnet)
-   	<br>
-   <img src="https://365cloudstore.com/wp-content/uploads/2023/02/sql-server-500x500-01.png" width ="100">
-	</div>
 </div>
 
 <br>
