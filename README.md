@@ -41,7 +41,7 @@ Mi compromiso con el crecimiento profesional es constante; incremento mi aprendi
 <br>   
 
 - **Base de datos**:
-    <img src="https://i0.wp.com/datamodel.com/wp-content/uploads/2025/05/ssms_21.png?w=512&quality=80&ssl=1" width ="100">
+    <img src="https://i0.wp.com/datamodel.com/wp-content/uploads/2025/05/ssms_21.png?w=512&quality=80&ssl=1" width ="50">
 
     
 <br>
