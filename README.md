@@ -36,7 +36,7 @@ Mi compromiso con el crecimiento profesional es constante; incremento mi aprendi
 
 
 - **Frameworks/librerias**:<br>
-  ![My Skills](https://skillicons.dev/icons?i=dotnet,bootstrap,react,nextjs)
+  ![My Skills](https://skillicons.dev/icons?i=dotnet,bootstrap,react,nextjs,tailwind)
 
 <br>   
 
