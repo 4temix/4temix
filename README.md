@@ -41,7 +41,7 @@ Mi compromiso con el crecimiento profesional es constante; incremento mi aprendi
 <br>   
 
 - **Base de datos**:
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdatamodel.com%2Fsql-server-2025-ssms-new-bling%2F&psig=AOvVaw1TBM1Sc_0t8Wn7vRB335YA&ust=1763243436589000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNCizOjP8pADFQAAAAAdAAAAABAL" width ="100">
+    <img src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fdatamodel.com%2Fsql-server-2025-ssms-new-bling%2F&psig=AOvVaw1TBM1Sc_0t8Wn7vRB335YA&ust=1763243436589000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNCizOjP8pADFQAAAAAdAAAAABAL](https://i0.wp.com/datamodel.com/wp-content/uploads/2025/05/ssms_21.png?w=512&quality=80&ssl=1)" width ="100">
 	[![My Skills](https://skillicons.dev/icons?i=postgres)](https://4temix.github.io/carrusel/)
     
 <br>
