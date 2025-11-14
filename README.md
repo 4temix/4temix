@@ -74,7 +74,7 @@ Mi compromiso con el crecimiento profesional es constante; incremento mi aprendi
   	
   ![My Skills](https://skillicons.dev/icons?i=html,css,js,react,dotnet)
   <br>
-  <img src="https://365cloudstore.com/wp-content/uploads/2023/02/sql-server-500x500-01.png" width ="100">
+   <img src="https://i0.wp.com/datamodel.com/wp-content/uploads/2025/05/ssms_21.png?w=512&quality=80&ssl=1" width ="50">.
 	</div>
   	<hr>
 	<br>
