@@ -43,6 +43,7 @@ Mi compromiso con el crecimiento profesional es constante; incremento mi aprendi
 - **Base de datos**:
 - 
     <img src="https://i0.wp.com/datamodel.com/wp-content/uploads/2025/05/ssms_21.png?w=512&quality=80&ssl=1" width ="50">
+		[![My Skills](https://skillicons.dev/icons?i=postgres)](https://4temix.github.io/carrusel/)
 
     
 <br>
