@@ -41,7 +41,6 @@ Mi compromiso con el crecimiento profesional es constante; incremento mi aprendi
 <br>   
 
 - **Base de datos**:
-
     <img src="https://365cloudstore.com/wp-content/uploads/2023/02/sql-server-500x500-01.png" width ="100">
 	[![My Skills](https://skillicons.dev/icons?i=postgres)](https://4temix.github.io/carrusel/)
     
