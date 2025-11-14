@@ -30,7 +30,7 @@ Mi compromiso con el crecimiento profesional es constante; incremento mi aprendi
 <p align="center">
 
 - **Tecnologias**:<br>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs)](https://4temix.github.io/carrusel/)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,ts)](https://4temix.github.io/carrusel/)
 
 <br>
 
