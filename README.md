@@ -112,7 +112,10 @@ Mi compromiso con el crecimiento profesional es constante; incremento mi aprendi
 		<h3>CareDocNow</h3>
   		<h4>Tecnologias usadas</h4>
   	
-  ![My Skills](https://skillicons.dev/icons?i=dotnet,bootstrap) <br>
+  ![My Skills](https://skillicons.dev/icons?i=dotnet,ts,nextjs,postgres) <br>
+  <p>Este es el proyecto mas grande que he hecho y que esta publico actualmente, la web CareDocNow se enfoca principalmente en ofrecer servicios de salud en línea, donde las personas pueden consultar con médicos, hacerse pruebas de laboratorio y recibir tratamiento sin tener que ir físicamente a una clínica. La idea principal es que el paciente pueda hablar con un doctor, explicar su problema y recibir orientación o recetas de forma rápida a través de internet.<br><br>
+
+En general, el enfoque de la web es hacer la atención médica más fácil, rápida y privada, especialmente para problemas de salud que muchas personas prefieren tratar de forma discreta, como temas de piel, pérdida de cabello o salud sexual. También busca que el proceso sea simple: el usuario elige su condición, responde algunas preguntas, un médico revisa el caso y luego puede dar un tratamiento o enviar una receta. </p>
 </div>
 <br>
 <br>
