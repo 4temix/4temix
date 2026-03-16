@@ -107,7 +107,7 @@ Mi compromiso con el crecimiento profesional es constante; incremento mi aprendi
 	<br>
 	<div>
 		<a href="https://new.caredocnow.com/">
-			<img src="Screenshot 2024-07-26 224733.png" alt="QrGenerate" style="width:40%;">
+			<img src="Captura.PNG" alt="QrGenerate" style="width:40%;">
 		</a>
 		<h3>CareDocNow</h3>
   		<h4>Tecnologias usadas</h4>
