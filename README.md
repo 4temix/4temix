@@ -98,9 +98,22 @@ Mi compromiso con el crecimiento profesional es constante; incremento mi aprendi
 		<h3>QRGenerate</h3>
   		<h4>Tecnologias usadas</h4>
   	
-  ![My Skills](https://skillicons.dev/icons?i=dotnet,bootstrap)
+  ![My Skills](https://skillicons.dev/icons?i=dotnet,bootstrap) <br>
+  nota:el proyecto suele caerse por alcanzar el limite de ancho de banda ya que el servidor usado es gratis
 </div>
 
+
+<hr>
+	<br>
+	<div>
+		<a href="https://new.caredocnow.com/">
+			<img src="Screenshot 2024-07-26 224733.png" alt="QrGenerate" style="width:40%;">
+		</a>
+		<h3>CareDocNow</h3>
+  		<h4>Tecnologias usadas</h4>
+  	
+  ![My Skills](https://skillicons.dev/icons?i=dotnet,bootstrap) <br>
+</div>
 <br>
 <br>
 <br>
