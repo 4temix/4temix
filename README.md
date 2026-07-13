@@ -42,7 +42,7 @@ Mi compromiso con el crecimiento profesional es constante; incremento mi aprendi
 
 - **Base de datos**:
 - 
-    <img src="[https://i0.wp.com/datamodel.com/wp-content/uploads/2025/05/ssms_21.png?w=512&quality=80&ssl=1](https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Microsoft_SQL_Server_2025_icon.svg/3840px-Microsoft_SQL_Server_2025_icon.svg.png)" width ="50">.
+    <img src="[https://i0.wp.com/datamodel.com/wp-content/uploads/2025/05/ssms_21.png?w=512&quality=80&ssl=1](https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Microsoft_SQL_Server_2025_icon.svg/3840pxMicrosoft_SQL_Server_2025_icon.svg.png)" width ="50">.
 		[![My Skills](https://skillicons.dev/icons?i=postgres)](https://4temix.github.io/carrusel/)
 
     
@@ -106,7 +106,7 @@ Mi compromiso con el crecimiento profesional es constante; incremento mi aprendi
 <hr>
 	<br>
 	<div>
-		<a href="[https://new.caredocnow.com/](https://github.com/4temix/GameSave4tbeta)">
+		<a href="https://github.com/4temix/GameSave4tbeta">
 			<img src="Captdfdfura.PNG" alt="QrGenerate" style="width:40%;">
 		</a>
 		<h3>GameSave4t</h3>
