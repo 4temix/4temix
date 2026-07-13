@@ -107,7 +107,7 @@ Mi compromiso con el crecimiento profesional es constante; incremento mi aprendi
 	<br>
 	<div>
 		<a href="https://github.com/4temix/GameSave4tbeta">
-			<img src="Captdfdfura.PNG" alt="QrGenerate" style="width:40%;">
+			<img src="Captura.PNGasdasd.PNG" alt="QrGenerate" style="width:40%;">
 		</a>
 		<h3>GameSave4t</h3>
   		<h4>Tecnologias usadas</h4>
