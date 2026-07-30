@@ -71,7 +71,6 @@ He participado en proyectos completos end-to-end: desde el diseño de la base de
 ### Proyectos Destacados
 
 <table>
-  <!-- Fila 1: Fundación UNCAF (Versión actual) y GameSave4t -->
   <tr>
     <td width="50%" align="center">
       <h3><b>Fundación UNCAF RD</b></h3>
@@ -97,7 +96,6 @@ He participado en proyectos completos end-to-end: desde el diseño de la base de
     </td>
   </tr>
 
-  <!-- Fila 2: Purificadora HY y Fundación UNCAF (Actualización) -->
   <tr>
     <td width="50%" align="center">
       <h3><b>Purificadora HY</b></h3>
@@ -123,7 +121,6 @@ He participado en proyectos completos end-to-end: desde el diseño de la base de
     </td>
   </tr>
 
-  <!-- Fila 3: Próximo Proyecto -->
   <tr>
     <td width="50%" align="center">
       <h3><b>Próximo Proyecto...</b></h3>
@@ -131,7 +128,6 @@ He participado en proyectos completos end-to-end: desde el diseño de la base de
       <p>🤖 Actualmente desarrollando soluciones empresariales escalables integrando <b>Agentes de IA y flujos de n8n</b>.</p>
     </td>
     <td width="50%" align="center">
-      <!-- Espacio reservado para futuros proyectos -->
     </td>
   </tr>
 </table>
