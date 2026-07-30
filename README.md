@@ -111,7 +111,7 @@ He participado en proyectos completos end-to-end: desde el diseño de la base de
     <td width="50%" align="center">
       <h3><b>Fundación UNCAF RD (En actualización)</b></h3>
       <a href="https://funcafdm.uk/" target="_blank">
-        <img src="Captura de pantalla 2025-01-29 105404.png" alt="Fundación UNCAF V2" style="width:70%; border-radius: 12px; margin-bottom: 10px;">
+        <img src="sdf.PNG" alt="Fundación UNCAF V2" style="width:70%; border-radius: 12px; margin-bottom: 10px;">
       </a>
       <p>Rediseño y migración full stack con arquitectura moderna y backend optimizado.</p>
       <p><b>Tecnologías:</b></p>
