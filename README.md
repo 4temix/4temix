@@ -73,7 +73,7 @@ He participado en proyectos completos end-to-end: desde el diseño de la base de
 <table>
   <tr>
     <td width="50%" align="center">
-      <h3><b>Fundación UNCAF RD</b></h3>
+      <h3><b>Fundación FUNCAF RD</b></h3>
       <a href="https://funcaf.org/" target="_blank">
         <img src="Captura de pantalla 2025-01-29 105404.png" alt="Fundación UNCAF" style="width:70%; border-radius: 12px; margin-bottom: 10px;">
       </a>
@@ -109,7 +109,7 @@ He participado en proyectos completos end-to-end: desde el diseño de la base de
       <a href="https://4temix.github.io/purificadora_web/" target="_blank">🌐 Ver Demo</a>
     </td>
     <td width="50%" align="center">
-      <h3><b>Fundación UNCAF RD (En actualización)</b></h3>
+      <h3><b>Fundación FUNCAF RD (En actualización)</b></h3>
       <a href="https://funcafdm.uk/" target="_blank">
         <img src="sdf.PNG" alt="Fundación UNCAF V2" style="width:70%; border-radius: 12px; margin-bottom: 10px;">
       </a>
